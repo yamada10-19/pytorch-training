@@ -1,3 +1,5 @@
+from function import add
+
 def count_word(str, c):
     return str.count(c)
 
